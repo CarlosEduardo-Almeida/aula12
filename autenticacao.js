@@ -1,0 +1,1 @@
+exports.logar(req, res, next)
